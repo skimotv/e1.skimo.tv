@@ -14,9 +14,13 @@ Public Fair Use TV Shows Discovery Service
     and a 3-minute summary is created at the end. This will help consumers, discover TV Shows, very easily, 
     without any friction. 
 
-    ii. Nature of the Copyrighted Work: The content available in the e1.skimo.tv website are all copyrighted published TV Shows.
+    ii. Nature of the Copyrighted Work: The content available in the e1.skimo.tv website are all 
+    copyrighted published TV Shows.
     
-    iii. Amount and Substantiality of the portion taken: Each Skimo is 3-minutes in length. A Skimo is created for a 
-    TV Show of length < 35 minutes and two Skimos are created for TV Shows > 70 minutes and 3 Skimos are created for TV Shows, which are 105 minutes in length. So, you could see that there is only a fraction of the Video, of the original work.
+    iii. Amount and Substantiality of the portion taken: Each Skimo is 3-minutes in length. 
+    A Skimo is created for a TV Show of length < 35 minutes and two Skimos are created for TV Shows 
+    > 70 minutes and 3 Skimos are created for TV Shows, which are 105 minutes in length. So, one 
+    could see that there is only a fraction of the Video, of the original work.
     
-    iv. Effect of the Use upon the Potential Market: e1.skimo.tv directly contributes to the discovery of TV Shows, thereby potentially increasing the revenues obtained from a TV Show.
+    iv. Effect of the Use upon the Potential Market: e1.skimo.tv directly contributes to the discovery 
+    of TV Shows, thereby potentially increasing the revenues obtained from a TV Show.
