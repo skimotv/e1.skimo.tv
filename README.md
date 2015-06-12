@@ -3,7 +3,7 @@ Public Fair Use TV Shows Discovery Service
 
 1.e1.skimo.tv is a Non-Commercial TV Shows Discovery Service, created for the Public good, by Skimo TV Inc., using Skimo TV's Skimo Engine automatically and is governed by the Fair Use Doctrine.
 
-  a. Non-Commercial: The web service is totally free to use, without any direct or indirect monetization plans such as ads and it does not use the freemium model, to commerialize the e1.skimo.tv service.
+  a. Non-Commercial: The website e1.skimo.tv is totally free to use, without any direct monetization vehicles such as ads and deferred monetization vehicle such as the freemium model, to commerialize the e1.skimo.tv service. In fact, no login is ever needed to use the website e1.skimo.tv
 
   b. Public Good: TV Show Consumers can visit e1.skimo.tv to watch the Skimo, which is a 3-minute automatic summary, of any TV Show, without paying any money.
 
