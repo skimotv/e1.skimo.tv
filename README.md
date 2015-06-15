@@ -1,7 +1,7 @@
 # e1.skimo.tv
 Public Fair Use TV Shows Art
 
-1.e1.skimo.tv is a Fair Use TV Shows Art, created for the Public good, by Skimo TV Inc., using Skimo TV's Skimo Engine automatically and is governed by the Fair Use Doctrine.
+1.e1.skimo.tv is a Fair Use TV Shows Algorithmic Art, created for the Public good, by Skimo TV Inc., using Skimo TV's Skimo Engine automatically and is governed by the Fair Use Doctrine.
 
   a. Non-Commercial: The website e1.skimo.tv is totally free to use, without any direct monetization vehicles such as ads and deferred monetization vehicle such as the freemium model, to commerialize the e1.skimo.tv service. In fact, no login is ever needed to use the website e1.skimo.tv
 
