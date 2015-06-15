@@ -1,5 +1,5 @@
 # e1.skimo.tv
-Public Fair Use TV Shows Art
+Public Fair Use TV Shows Algorithmic Art
 
 1.e1.skimo.tv is a Fair Use TV Shows Algorithmic Art, created for the Public good, by Skimo TV Inc., using Skimo TV's Skimo Engine automatically and is governed by the Fair Use Doctrine.
 
