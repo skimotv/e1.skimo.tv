@@ -26,3 +26,9 @@
     iv. Effect of the Use upon the Potential Market: pilot.skimo.tv directly contributes 
     to the discovery of TV Shows, thereby potentially increasing the revenues obtained 
     from a TV Show.
+2. Contact Info.:
+  Head, Skimo Pilot TV Shows Art Division,
+  Skimo TV Inc.,
+  440 N Wolfe Road,
+  Sunnyvale,
+  CA 94085
