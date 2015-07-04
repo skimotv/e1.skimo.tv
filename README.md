@@ -1,4 +1,4 @@
-# s1e1.skimo.tv
+# pilot.skimo.tv
 # Public Fair Use TV Shows Algorithmic Art
 # NO HUMAN INTERVENTION (NHI)
 1.s1e1.skimo.tv is a Fair Use TV Shows Algorithmic Art, created for the Public good, by Skimo TV Inc., using Skimo TV's Skimo Engine automatically and is governed by the Fair Use Doctrine.
@@ -14,7 +14,7 @@
     of interest are identified and a 3-minute summary transformative art is created at the end. This will 
     help consumers, discover TV Shows, very easily, without any friction. 
 
-    ii. Nature of the Copyrighted Work: The content available in the s1e1.skimo.tv website 
+    ii. Nature of the Copyrighted Work: The content available in the pilot.skimo.tv website 
     are all copyrighted published TV Shows.
     
     iii. Amount and Substantiality of the portion taken: Each Skimo is 3-minutes in length. 
@@ -23,6 +23,6 @@
     length. So, one could see that there is only a fraction of the Video, of the original 
     work.
     
-    iv. Effect of the Use upon the Potential Market: s1e1.skimo.tv directly contributes 
+    iv. Effect of the Use upon the Potential Market: pilot.skimo.tv directly contributes 
     to the discovery of TV Shows, thereby potentially increasing the revenues obtained 
     from a TV Show.
