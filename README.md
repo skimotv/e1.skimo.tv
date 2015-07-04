@@ -27,7 +27,7 @@
     to the discovery of TV Shows, thereby potentially increasing the revenues obtained 
     from a TV Show.
 Contact Info.:
-  Head, Skimo Pilot TV Shows Art Division,
+  Head, Skimo Algorithmic Art Division,
   Skimo TV Inc.,
   440 N Wolfe Road,
   Sunnyvale,
